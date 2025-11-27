@@ -73,3 +73,49 @@ Bootstrap Icons
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
 
+▶️ How to Run the Project
+
+Open Visual Studio Code
+
+Create a project folder
+
+Add an index.html file
+
+Copy the blog layout code into index.html
+
+Save the file
+
+Open index.html in any web browser
+
+🧪 Responsiveness Testing
+
+The webpage adapts smoothly to:
+
+Mobile phones
+
+Tablets
+
+Laptops
+
+Desktop screens
+
+Bootstrap's grid system ensures flexible layouts across all devices.
+
+📚 Learning Outcome
+
+Understanding Bootstrap 5 CDN usage
+
+Implementing responsive layouts quickly
+
+Using Bootstrap components like Navbar and Cards
+
+Applying utility classes for spacing and colors
+
+✅ Outcome
+
+This task helps in learning rapid UI development and responsive design using Bootstrap 5.
+
+📄 Author
+
+Your Name
+Dimple K
